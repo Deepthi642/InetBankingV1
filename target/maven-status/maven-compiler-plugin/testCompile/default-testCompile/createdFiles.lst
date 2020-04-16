@@ -1,0 +1,17 @@
+com\inetbanking\testcases\BaseClass.class
+com\inetbanking\testcases\TC_LoginTest_001.class
+com\inetbanking\pageObjects\EditCustomerPage.class
+stepdefi\StepDefin.class
+com\inetbanking\testcases\TC_LoginDDT_002.class
+CucumberOptions\Testrunner.class
+datadriventests\Calctest.class
+com\inetbanking\utilities\Reporting.class
+datadriventests\WritingDataIntoExcel.class
+com\inetbanking\pageObjects\LoginPage.class
+com\inetbanking\utilities\XLUtils.class
+datadriventests\RegistrationTest.class
+com\inetbanking\testcases\TC_AddNewCustomer_003.class
+com\inetbanking\testcases\LocatorTech.class
+com\inetbanking\pageObjects\AddNewCustomer.class
+com\inetbanking\utilities\ReadConfig.class
+datadriventests\ReaddataFromExcel.class
